@@ -1,6 +1,6 @@
 spring:
   application:
-    name: "mir"
+    name: "migration-integrist-service"
   jpa:
     database-platform: org.hibernate.dialect.PostgreSQLDialect  
   datasource:
